@@ -27,7 +27,7 @@ Open a command prompt window and navigate to the folder containing get-pip.py . 
 
 6] Install Django (2.2.5)
 
-pip install django == 2.2.5
+pip install django==2.2.5
 
 
 As you can see from the above guide, installing Django to the windows platform is very straightforward. You download the python programming tool, finally install Django.
